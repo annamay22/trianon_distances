@@ -36,3 +36,8 @@ You can determine the distance between any Hungarian city/village and the histor
     The distance between Pécs and the border is 33.45 km
     
 ![alt text](images/Pécs.png "Pécs")
+
+## 4. How to contribute
+
+If you change something in the conda environment, type `make requirements` to update the list of requirements.
+Before committing a notebook, put the name of the notebook in `config.conf` and type `make clean_notebook`. Now you can commit the notebook.
