@@ -1,4 +1,6 @@
-# Compute the distance between Hungarian cities and the closest point on the historical Hungarian border
+# Trianon distances
+
+_Compute the distance between Hungarian cities and the closest point on the historical Hungarian border_
 
 ## 1. Setup
 
